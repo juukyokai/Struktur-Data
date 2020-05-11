@@ -10,7 +10,7 @@ using namespace std;
 /* 
 	@Algorithm Original By : Intan Yuniar Purbasari, S.Kom.,M.Sc.
 	@Source Code Original By : Mohammad Faisal Riftiarrasyid (18081010001)
-	@Uploaded at Github : https://github.com/JuukyoKai/Struktur_Data#struktur_data
+	@Uploaded at Github : https://github.com/JuukyoKai/Struktur-Data/tree/master/Graph
 */
 
 class Graph{
